@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 #include <thread>
 
 #define SDL_MAIN_HANDLED
